@@ -8,7 +8,8 @@
 [![Facebook Badge](https://img.shields.io/badge/rex.spec-3A549E?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/rex.spec/)](https://www.facebook.com/rex.spec/)
 
 <hr>
-[![Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=RishikeshMane/)](https://github.com/RishikeshMane/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishikeshMane)](https://github.com/RishikeshMane/github-readme-stats)
 
 ![](https://github-readme-stats.vercel.app/api?username=RishikeshMane&show_icons=true&theme=chartreuse-dark)
 <br>
