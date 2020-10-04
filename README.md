@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Rishikesh
 
-<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Rishikesh" title="👋 Hi there i'm Rishikesh"/>
-
 <hr>
 
 ### You can connect Me with -
@@ -10,6 +8,7 @@
 [![Facebook Badge](https://img.shields.io/badge/rex.spec-3A549E?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/rex.spec/)](https://www.facebook.com/rex.spec/)
 
 <hr>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=RishikeshMane)](https://github.com/RishikeshMane/github-readme-stats)
 
 ![](https://github-readme-stats.vercel.app/api?username=RishikeshMane&show_icons=true&theme=chartreuse-dark)
 <br>
