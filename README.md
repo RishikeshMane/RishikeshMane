@@ -9,7 +9,7 @@
 
 <hr>
 
-![image](https://github.com/RishikeshMane/RishikeshMane/blob/main/arif-riyanto-vJP-wZ6hGBg-unsplash.jpg)
+![image](https://github.com/RishikeshMane/RishikeshMane/blob/main/kevin-horvat-Pyjp2zmxuLk-unsplash.jpg)
 
 
 <a href="https://github.com/RishikeshMane/RishikeshMane">
