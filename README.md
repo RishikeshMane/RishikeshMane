@@ -21,17 +21,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RishikeshMane&repo=ScrapedWeb&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
-
-
-
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishikeshMane)](https://github.com/RishikeshMane/github-readme-stats)
-
-[![](https://github-readme-stats.vercel.app/api?username=RishikeshMane&show_icons=true&theme=chartreuse-dark)](https://RishikeshMane/github-readme-stats)
+<hr>
 <br>
 ![Profile views](https://gpvc.arturio.dev/RishikeshMane)
