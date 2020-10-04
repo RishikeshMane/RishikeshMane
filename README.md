@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Rishikesh
-
-<hr>
+### Here's Some Stuff about Me ![](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### You can connect Me with -
 
