@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Rishikesh
 
+<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Rishikesh" title="👋 Hi there i'm Rishikesh"/>
+
 <hr>
 
 ### You can connect Me with -
