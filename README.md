@@ -11,6 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishikeshMane)](https://github.com/RishikeshMane/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=RishikeshMane&show_icons=true&theme=chartreuse-dark)
+[![](https://github-readme-stats.vercel.app/api?username=RishikeshMane&show_icons=true&theme=chartreuse-dark)](https://RishikeshMane/github-readme-stats)
 <br>
 ![Profile views](https://gpvc.arturio.dev/RishikeshMane)
