@@ -1,12 +1,7 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-# 🔭 I’m currently working on Web Dev
-# 🌱 I’m currently learning Web Dev,Data Science
-# 🤔 I’m looking for help with ...
-# 💬 Ask me about Tech and Cosmos
+### Hi there 👋 I'm Rishikesh
 <hr>
+### You can connect with with 
+[](https://img.shields.io/badge/RishikeshMane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishikesh-mane-620908186/)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=RishikeshMane&show_icons=true&theme=chartreuse-dark)
