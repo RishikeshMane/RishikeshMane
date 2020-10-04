@@ -1,5 +1,7 @@
-### Hi there 👋 I'm Rishikesh
-### Here's Some Stuff about Me ![](https://github.githubassets.com/images/icons/emoji/octocat.png)
+### Hi there 👋 I'm Rishikesh ![](https://github.githubassets.com/images/icons/emoji/octocat.png) ![](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/milky-way_1f30c.png)
+
+<hr>
+
 
 ### You can connect Me with -
 
