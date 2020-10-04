@@ -9,10 +9,7 @@
 
 <hr>
 
-![image](https://github.com/RishikeshMane/RishikeshMane/blob/main/kevin-horvat-Pyjp2zmxuLk-unsplash.jpg)
-
-
-<a href="https://github.com/RishikeshMane/RishikeshMane">
+![image](https://github.com/RishikeshMane/RishikeshMane/blob/main/kevin-horvat-Pyjp2zmxuLk-unsplash.jpg)<a href="https://github.com/RishikeshMane/RishikeshMane">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishikeshMane&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/RishikeshMane/RishikeshMane">
