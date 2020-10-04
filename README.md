@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 
 
 ![](https://github-readme-stats.vercel.app/api?username=RishikeshMane&show_icons=true&theme=chartreuse-dark)
+![Profile views](https://gpvc.arturio.dev/RishikeshMane)
