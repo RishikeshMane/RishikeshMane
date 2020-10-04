@@ -9,7 +9,7 @@
 
 <hr>
 
-![image](https://github.com/RishikeshMane/RishikeshMane/blob/main/kevin-horvat-Pyjp2zmxuLk-unsplash.jpg)
+![image](https://github.com/RishikeshMane/RishikeshMane/blob/main/sketch-3047721_1920.jpg)
 
 <hr>
 
