@@ -11,7 +11,7 @@
 
 
 
-![image](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif=250x250)
+![image](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif =250x250)
 
 <hr>
 
