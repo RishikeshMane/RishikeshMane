@@ -11,7 +11,7 @@
 
 
 
-![image](https://github.com/RishikeshMane/RishikeshMane/blob/main/sketch-3047721_1920.jpg)
+![image](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 <hr>
 
