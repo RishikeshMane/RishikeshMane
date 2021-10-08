@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=Arduino&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=plastic&logo=GNU%20Bash&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=plastic&logo=windows%20terminal&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white" height=20>
 </p>
 
 <img alt="gif Code" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" height="auto"/>
